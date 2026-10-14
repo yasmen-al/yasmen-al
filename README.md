@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+I am a Digital Forensics Student
+
 <!--
 **yasmen-al/yasmen-al** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
